@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: roboto-medium;
+}
+@font-face {
+    font-family: roboto-medium;
+    src: url('./../fonts/Roboto-Medium.ttf');
+}
+#image1{
+    width: 100%;
+}
+#one{
+    color: black;
+    margin-left: 300px;
+    font-size: 100px;
+    padding: 50px;
+    margin-bottom: 70px;
+}
+#two{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}
+span{
+    text-decoration: underline;
+    color: #98189a;
+}
+#three{
+    background-color: whitesmoke;
+    padding: 10px;
+    font-size: 40px;
+    margin: 50px;
+    width: 40%;
+}
+button{
+    color: white;
+    background-color: #98189a;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#four{
+    font-size: 30px;
+    margin-left: 50px;
+}
+#five{
+    font-size: 20px;
+    margin-left: 60px;
+    text-align: justify;
+}
+#six{
+    font-size: 100px;
+    margin-left: 180px;
+}
+#seven{
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+#span{
+    text-decoration: none;
+}
+#tab{
+    background-color: blue;
+    width: 100%;
+}
+#h10{
+    width: 20%;
+}
+#h11{
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+#h12{
+    color: whitesmoke;
+    text-align: justify;
+    margin-left: 30px;
+    width: 400px;
+}
+#h13{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 450px;
+}
+#h14{
+    color: grey;
+    font-size: 15px;
+    margin-left: 450px;
+}
+#image2{
+    width: 500px;
+}
+#td1{
+    width: 50%;
+}
+#td2{
+    width: 30%;
+}
+#image3{
+    width: 20px;
+    margin-left: 30px;
+}
